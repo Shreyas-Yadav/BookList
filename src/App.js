@@ -5,8 +5,8 @@ import UserForm from "./users/UserForm";
 
 const objList = [
   {
-    name: "The Indian Metropolis New Writer",
-    auther: "Varun Gandhi New",
+    name: "The Indian Metropolis New Writer ",
+    auther: "Varun Gandhi New Writer 123",
     addresslink:
       "https://images-eu.ssl-images-amazon.com/images/I/41cqBP3CKoL._AC_SX184_.jpg",
   },
