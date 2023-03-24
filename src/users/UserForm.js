@@ -1,7 +1,7 @@
 function UserForm(){
     const inputChnage = ()=>{
         return (
-            console.log("Event Triggerd")
+            console.log("event Triggerd")
         )
     }
     const btnClick = ()=>{
