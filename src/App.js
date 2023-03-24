@@ -30,7 +30,7 @@ const objList = [
   },
 ];
 
-const newArray = objList.map((element) => {
+const newArray = objList.filter((element)=>{return element.name.includes('a')}).map((element) => {
   return (
     <>
       <Book b1={element} />
